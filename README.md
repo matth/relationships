@@ -1,8 +1,8 @@
-== Installation
+## Installation
 
     gem install 'json'
 
-== Usage
+## Usage
 
     ruby entities.rb   # Downloads all (inter) relationships for Leslie A Dach
 
